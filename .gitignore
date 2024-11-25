@@ -1,0 +1,12 @@
+cred.yml
+.venv
+input_codes.txt
+output_codes.csv
+.pyc
+output/
+output/json/
+failed_codes.csv
+*.json
+__pycache__
+output
+sample.csv
